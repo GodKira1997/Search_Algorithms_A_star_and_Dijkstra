@@ -1,0 +1,7 @@
+
+*.xml
+*.zip
+out/production/Project1/Edge.class
+out/production/Project1/README.txt
+out/production/Project1/Search.class
+out/production/Project1/Vertex.class
